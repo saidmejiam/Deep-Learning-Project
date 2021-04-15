@@ -1,13 +1,13 @@
-# All filenames have to have the following structure in their names:
+## All filenames have to have the following structure in their names:
 ### category-initial-short_description.ipynb
 ### e.g. 00-JM-Tutorial_1.ipynb
 
-# Categories:
+## Categories:
 - 00 - Copying Tutorials
 - 01 - Data Processing
 - 02 - Model Development
 
-# Initials: 
+## Initials: 
 - Said Mejia - SM
 - Harold Gamarro - HG
 - Juan Pablo Montoya -JM
