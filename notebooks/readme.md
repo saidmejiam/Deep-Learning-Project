@@ -1,4 +1,4 @@
-## All filenames have to have the following structure in their names:
+## All filenames should to have the following structure in their names:
 ### category-initial-short_description.ipynb
 ### e.g. 00-JM-Tutorial_1.ipynb
 
