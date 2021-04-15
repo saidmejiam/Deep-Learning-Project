@@ -1,8 +1,13 @@
 All filename have to have this structure in their name:
 00-initial-short_description.ipynb
 
-Initial: 
+00 - Copying Tutorials
+01 - Data Processing
+02 - Model Development
+
+Initials: 
 Said Mejia - SM
 Harold Gamarro - HG
 Juan Pablo Montoya -JM
 Joe Brian Malubay - JB
+
